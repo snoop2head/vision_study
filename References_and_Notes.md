@@ -12,8 +12,7 @@
 
 ### YouTube Tutorials
 
-* [ ] [Train YOLO to detect a custom object (online with free GPU)](https://www.youtube.com/watch?v=_FNfRtXEbr4) in April 2020
-
+- [ ] [Train YOLO to detect a custom object (online with free GPU)](https://www.youtube.com/watch?v=_FNfRtXEbr4) in April 2020
 - [ ] [Build a Sleep Tracker with Opencv and Python](https://www.youtube.com/watch?v=nSMt9nZRUdE&t=1246s) in September 2020
 - [ ] [Create a simple Image Classifier - Neural Networks from Scratch](https://www.youtube.com/watch?v=gFcnd7wa6OE) in September 2020
 - [ ] [License Plate Recognition Using YOLOv4 Object Detection, OpenCV, and Tesseract OCR](https://www.youtube.com/watch?v=AAPZLK41rek)
@@ -31,38 +30,4 @@
 * [토크ON 71차. 파이썬 OpenCV 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcsVesI5jR3BYW0FGcX2_vx)
 * [토크ON 51차. 딥러닝 영상분류/영상인식 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhe5tqXV2KAeR0H-_tbn8esv)
 
-
-
-## Others
-
-
-
-### ~~[Training YOLO v3 for Objects Detection with Custom Data](https://www.udemy.com/course/training-yolo-v3-for-objects-detection-with-custom-data/)~~
-
-Too Time consuming :(
-
-* yolov3, darknet  
-* Object Detection with Yolo v3
-* Labelling new dataset in Yolo Format
-* Creating custom dataset in Yolo Format
-* Converting traffic signs dataset in Yolo format
-
-
-
-### ~~[Master Computer Vision with Yolo v4](https://www.udemy.com/course/master-computer-vision-with-opencv-in-python/)~~
-
-Built with Python 2.7 :(
-
-- [ ] Mini Project 1 - Live Sketch App - Turn your Webcam Feed Into A Pencil Drawing
-- [ ] Mini Project # 4 - Finding Waldo (Quickly Find A Specific Pattern In An Image)
-- [ ] Mini Project 5 - Object Detection - Detect A Specific Object Using Your Webcam
-- [ ] Mini Project 6 - Car and Pedestrian Detection in Videos
-- [ ] Mini Project 7 - Live Face Swapper (like MSQRD & Snapchat filters!!!)
-- [ ] Mini Project 8 - Yawn Detector and Counter
-- [ ] Mini Project 9 - Handwritten Digit Classification
-- [ ] Mini Project # 10 - Facial Recognition - Make Your Computer Recognize You
-- [ ] Mini Project # 12 - Photo-Restoration
-- [ ] Mini Project # 13 - Automatic Number-Plate Recognition (ALPR)
-- [ ] Mini Project # 14 - Cats vs Dogs Classifier
-- [ ] Mini Project # 15 - Credit Card number reader 
 
