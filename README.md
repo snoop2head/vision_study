@@ -44,3 +44,4 @@
 
 * [Dive into Deep Learning](https://d2l.ai/)
 * [Hands on Machine Learning](https://github.com/ageron/handson-ml2)
+* [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks)
