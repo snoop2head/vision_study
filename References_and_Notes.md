@@ -39,3 +39,8 @@
 * [토크ON 51차. 딥러닝 영상분류/영상인식 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhe5tqXV2KAeR0H-_tbn8esv) in 2019
 
 
+
+## Machine Learning Books Focused on Practice
+
+* [Dive into Deep Learning](https://d2l.ai/)
+* [Hands on Machine Learning](https://github.com/ageron/handson-ml2)
