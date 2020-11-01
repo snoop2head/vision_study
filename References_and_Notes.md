@@ -10,7 +10,48 @@
   * One-stage Detector: Yolo, SSD, Retina-net
   * Two-stage detector: RCNN, SPPNet, Fast RCNN, Faster RCNN, Pyramid Networks
 
-### [Master Computer Vision with Yolo v4](https://www.udemy.com/course/master-computer-vision-with-opencv-in-python/)
+### YouTube Tutorials
+
+* [ ] [Train YOLO to detect a custom object (online with free GPU)](https://www.youtube.com/watch?v=_FNfRtXEbr4) in April 2020
+
+- [ ] [Build a Sleep Tracker with Opencv and Python](https://www.youtube.com/watch?v=nSMt9nZRUdE&t=1246s) in September 2020
+- [ ] [Create a simple Image Classifier - Neural Networks from Scratch](https://www.youtube.com/watch?v=gFcnd7wa6OE) in September 2020
+- [ ] [License Plate Recognition Using YOLOv4 Object Detection, OpenCV, and Tesseract OCR](https://www.youtube.com/watch?v=AAPZLK41rek)
+- [ ] [Counting Objects Using YOLOv4 Object Detection | Custom YOLOv4 Functions with TensorFlow](https://www.youtube.com/watch?v=jDwC5m7c7BU)
+- [ ] [Crop and Save YOLOv4 Object Detections | Custom YOLOv4 Functions with TensorFlow](https://www.youtube.com/watch?v=P7r0hIP2GQ4)
+- [ ] [Object Tracking Using YOLOv4, Deep SORT, and TensorFlow](https://www.youtube.com/watch?v=FuvQ8Melz1o)
+- [ ] [YOLOv4 in the CLOUD: Build and Train Custom Object Detector (FREE GPU)](https://www.youtube.com/watch?v=mmj3nxGT2YQ&t=1835s)
+- [ ] [How to Build a Custom YOLOv4 Object Detector using TensorFlow (License Plate Detector)](https://www.youtube.com/watch?v=nOIVxi5yurE)
+- [ ] [YOLOv4 Object Detection with TensorFlow, TensorFlow Lite and TensorRT Models (images, video, webcam)](https://www.youtube.com/watch?v=iPwepy-SVCQ)
+
+
+
+### (Korean) T Academy Tutorials
+
+* [토크ON 71차. 파이썬 OpenCV 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcsVesI5jR3BYW0FGcX2_vx)
+* [토크ON 51차. 딥러닝 영상분류/영상인식 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhe5tqXV2KAeR0H-_tbn8esv)
+
+
+
+## Others
+
+
+
+### ~~[Training YOLO v3 for Objects Detection with Custom Data](https://www.udemy.com/course/training-yolo-v3-for-objects-detection-with-custom-data/)~~
+
+Too Time consuming :(
+
+* yolov3, darknet  
+* Object Detection with Yolo v3
+* Labelling new dataset in Yolo Format
+* Creating custom dataset in Yolo Format
+* Converting traffic signs dataset in Yolo format
+
+
+
+### ~~[Master Computer Vision with Yolo v4](https://www.udemy.com/course/master-computer-vision-with-opencv-in-python/)~~
+
+Built with Python 2.7 :(
 
 - [ ] Mini Project 1 - Live Sketch App - Turn your Webcam Feed Into A Pencil Drawing
 - [ ] Mini Project # 4 - Finding Waldo (Quickly Find A Specific Pattern In An Image)
@@ -24,22 +65,4 @@
 - [ ] Mini Project # 13 - Automatic Number-Plate Recognition (ALPR)
 - [ ] Mini Project # 14 - Cats vs Dogs Classifier
 - [ ] Mini Project # 15 - Credit Card number reader 
-
-
-### [Training YOLO v3 for Objects Detection with Custom Data](https://www.udemy.com/course/training-yolo-v3-for-objects-detection-with-custom-data/)
-
-* yolov3, darknet  
-* Object Detection with Yolo v3
-* Labelling new dataset in Yolo Format
-* Creating custom dataset in Yolo Format
-* Converting traffic signs dataset in Yolo format
-
-### Others
-
-* [토크ON 71차. 파이썬 OpenCV 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcsVesI5jR3BYW0FGcX2_vx)
-
-* [토크ON 51차. 딥러닝 영상분류/영상인식 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhe5tqXV2KAeR0H-_tbn8esv)
-
-  
-
 
