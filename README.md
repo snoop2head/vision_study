@@ -16,8 +16,6 @@
 - [ ] Tensorflow Object Detection API
 - [ ] Segmentation - Mask RCNN
 
-
-
 ## YouTube Tutorials
 
 - [ ] [Train YOLO to detect a custom object (online with free GPU)](https://www.youtube.com/watch?v=_FNfRtXEbr4) in April 2020
@@ -30,17 +28,33 @@
 - [ ] [YOLOv4 in the CLOUD: Build and Train Custom Object Detector (FREE GPU)](https://www.youtube.com/watch?v=mmj3nxGT2YQ&t=1835s)
 - [ ] [How to Build a Custom YOLOv4 Object Detector using TensorFlow (License Plate Detector)](https://www.youtube.com/watch?v=nOIVxi5yurE)
 - [ ] [YOLOv4 Object Detection with TensorFlow, TensorFlow Lite and TensorRT Models (images, video, webcam)](https://www.youtube.com/watch?v=iPwepy-SVCQ)
-
-
-
-## (Korean) T Academy Tutorials
-
-* [토크ON 71차. 파이썬 OpenCV 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcsVesI5jR3BYW0FGcX2_vx) in 2020
-* [토크ON 51차. 딥러닝 영상분류/영상인식 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhe5tqXV2KAeR0H-_tbn8esv) in 2019
-
-
+- [ ] [Train YOLOv3 Custom Object Detector with Darknet | Aimbot and Security Camera](https://www.youtube.com/watch?v=zJDUhGL26iU)
+- [ ] [Yolov4로 자동차 인식해보기 (빵형 개발도상국)](https://www.youtube.com/watch?v=hxwEqXCgQO4)
+- [ ] [Mask Detection from image dataset -> video recognition(빵형 개발도상국)](https://www.youtube.com/watch?v=C5-SEZ_IvaM)
+- [ ] [Yolov5 Custom Training Model (빵형 개발도상국)](https://www.youtube.com/watch?v=T0DO1C8uYP8)
 
 ## Machine Learning Books Focused on Practice
 
 * [Dive into Deep Learning](https://d2l.ai/)
 * [Hands on Machine Learning](https://github.com/ageron/handson-ml2)
+
+
+
+
+
+### Kaggle and Other Tutorials
+
+| Subject                                                      | Library & Modules                 | URL1                                                         |
+| ------------------------------------------------------------ | --------------------------------- | ------------------------------------------------------------ |
+| Flower Recognition CNN Keras in Kaggle                       | Keras CNN                         | https://www.kaggle.com/rajmehra03/flower-recognition-cnn-keras |
+| Species‐level image classification with CNN enables insect identification from habitus images | TensorFlow CNN                    | https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5921   |
+| 2020 토크ON 71차. 파이썬 OpenCV 입문 T아카데미               | OpenCV                            | https://www.youtube.com/playlist?list=PL9mhQYIlKEhcsVesI5jR3BYW0FGcX2_vx |
+| Dog Breeds Classification                                    | Keras CNN, Xception               | https://github.com/floydhub/image-classification-template/blob/master/dog-breed-classification.ipynb |
+| Image Classification 용 모델 모음                            | -                                 | https://github.com/weiaicunzai/awesome-image-classification  |
+| Cat vs Dog                                                   | tensorflow1                       | https://github.com/rdcolema/tensorflow-image-classification/blob/master/tf1_cnn.ipynb |
+| CIFAR-10 dataset classification                              | tensorflow1                       | https://github.com/deep-diver/CIFAR10-img-classification-tensorflow/blob/master/CIFAR10_image_classification.ipynb |
+| Dog Breeds Classification                                    | Docker로 구분 모델 배포           | https://github.com/stormy-ua/dog-breeds-classification       |
+| Dog Breeds Identification Competition                        | PyTorch, TF, Keras  등...         | https://www.kaggle.com/c/dog-breed-identification/notebooks  |
+| Daniel Burke's Dog Breeds Identification                     | tensorflow2... (공부 중)          | https://www.kaggle.com/mrdbourke/tensorflow-2-x-tensorflow-hub-end-to-end-example |
+| 2019 T 아카데미 토크ON 51차. 딥러닝 영상분류/영상인식 입문   | T아카데미VGG16, ResNet, YOLO, SSD | https://www.youtube.com/playlist?list=PL9mhQYIlKEhe5tqXV2KAeR0H-_tbn8esv |
+
