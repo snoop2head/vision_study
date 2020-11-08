@@ -18,7 +18,7 @@
 
 ## YouTube Tutorials
 
-- [ ] [Train YOLO to detect a custom object (online with free GPU)](https://www.youtube.com/watch?v=_FNfRtXEbr4) in April 2020
+- [x] [Train YOLO to detect a custom object (online with free GPU)](https://www.youtube.com/watch?v=_FNfRtXEbr4) in April 2020
 - [ ] [Build a Sleep Tracker with Opencv and Python](https://www.youtube.com/watch?v=nSMt9nZRUdE&t=1246s) in September 2020
 - [ ] [Create a simple Image Classifier - Neural Networks from Scratch](https://www.youtube.com/watch?v=gFcnd7wa6OE) in September 2020
 - [ ] [License Plate Recognition Using YOLOv4 Object Detection, OpenCV, and Tesseract OCR](https://www.youtube.com/watch?v=AAPZLK41rek)
