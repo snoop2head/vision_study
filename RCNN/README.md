@@ -1,7 +1,10 @@
 # RCNN Session
 
-
 ## RCNN에 대한 이해
+
+"나는 가로를 보고, 너는 세로를 맡아! 그러면 완벽해!"
+
+![내 아이큐150 네 아이큐150 합치면 300이야. - 인스티즈(instiz) 인티포털](https://file.instiz.net/data/file/20121108/7/b/0/7b03372d5ab0b9c46b32aef34b8cc301)
 
 1. RCNN Usage for Object Detection
 2. Types of Computer Vison
