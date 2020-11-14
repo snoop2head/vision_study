@@ -21,6 +21,7 @@
 - [x] [Train YOLO to detect a custom object (online with free GPU)](https://www.youtube.com/watch?v=_FNfRtXEbr4) in April 2020
 - [ ] [Object Detector Training Tutorial with Retinanet-Keras](https://github.com/jaspereb/Retinanet-Tutorial) in April 2020
 - [ ] [Detectron2 Train a Instance Segmentation Model](https://youtu.be/ElAVLYaVWgk) in April 2020
+  - [ ] [Detectron2 Facebook Tutorial Explanation](https://www.youtube.com/watch?v=eUSgtfK4ivk) in April 2020
   - [ ] [Detectron2 Colab Tutorial](https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5#scrollTo=OpLg_MAQGPUT)
 - [ ] [Build a Sleep Tracker with Opencv and Python](https://www.youtube.com/watch?v=nSMt9nZRUdE&t=1246s) in September 2020
 - [ ] [Create a simple Image Classifier - Neural Networks from Scratch](https://www.youtube.com/watch?v=gFcnd7wa6OE) in September 2020
