@@ -24,7 +24,7 @@
 
 ### 3. Kaggle Wheat Detection with FasterRCNN using Pytorch
 
-* [Colab: Object Detection Training with custom Dataset using Pytorch](https://colab.research.google.com/drive/1jskY99kzs8omgpEtKVan8a0P1qZCN4E8?usp=sharing)
+* [Colab: Object Detection Training with custom Dataset using Pytorch](https://colab.research.google.com/drive/1_W9dQjcvA5yHSGtVTUsAAyn_0y_k1G0V?usp=sharing)
 
 ### References
 
