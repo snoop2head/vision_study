@@ -19,7 +19,7 @@
 ## YouTube Tutorials
 
 - [x] [Train YOLO to detect a custom object (online with free GPU)](https://www.youtube.com/watch?v=_FNfRtXEbr4) in April 2020
-- [ ] [Object Detector Training Tutorial with Retinanet-Keras](https://github.com/jaspereb/Retinanet-Tutorial) in April 2020
+- [x] [Object Detector Training Tutorial with Retinanet-Keras](https://github.com/jaspereb/Retinanet-Tutorial) in April 2020
 - [ ] [Detectron2 Train a Instance Segmentation Model](https://youtu.be/ElAVLYaVWgk) in April 2020
   - [ ] [Detectron2 Facebook Tutorial Explanation](https://www.youtube.com/watch?v=eUSgtfK4ivk) in April 2020
   - [ ] [Detectron2 Colab Tutorial](https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5#scrollTo=OpLg_MAQGPUT)
@@ -37,12 +37,28 @@
 - [ ] [Mask Detection from image dataset -> video recognition(빵형 개발도상국)](https://www.youtube.com/watch?v=C5-SEZ_IvaM)
 - [ ] [Yolov5 Custom Training Model (빵형 개발도상국)](https://www.youtube.com/watch?v=T0DO1C8uYP8)
 
+## Honeybee vs Wasp Classification References
+
+| Subject                                               | Library & Modules                   | URL1                                                         |
+| ----------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------ |
+| **Honeybee, Wasp, Insect Dataset**                    | -                                   | https://www.kaggle.com/jerzydziewierz/bee-vs-wasp            |
+| **Honeybee vs Wasp Identification**                   | Tensorflow2 Keras ResNet50          | https://www.kaggle.com/koshirosato/bee-or-wasp-base-line-using-resnet50 |
+| **Honey Bee Anotated Images (5172 images)**           | -                                   | https://www.kaggle.com/jenny18/honey-bee-annotated-images/home |
+| Bee Image Classification using a CNN and Keras        | keras                               | https://medium.com/@mahdis.pw/bee-image-classification-using-a-cnn-and-keras-5fd5ed90a37b |
+| Performance Comparison for Vespa Image Recognition    | AlexNet, VGG19, GoogLeNet, ResNet50 | https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09225716 |
+| Insect Identification & Classification Project        | PyTorch                             | https://www.kaggle.com/kmldas/starter-kernel-insect-identification |
+| Detecting Bees location on far range (`video)         | tensorflow2, keras                  | https://github.com/matpalm/bnn                               |
+| Count bees entering / leaving, Detect Pollens (video) | OpenCV2                             | https://github.com/Rastafouille/BeeDetection                 |
+| Detecting Bees on close range (video)                 | Yolov3                              | https://github.com/rdinizcal/bee_detection                   |
+| Detecting Wasp, Bee, Hornet (video)                   | yolo, darknet                       | https://github.com/JoeRu/bwh-detector                        |
+| honeybee colony segmentation & tracking (video)       | tensorflow1                         | https://github.com/kasiabozek/bee_tracking                   |
+
+
+
 ## Machine Learning Books Focused on Practice
 
 * [Dive into Deep Learning](https://d2l.ai/)
 * [Hands on Machine Learning](https://github.com/ageron/handson-ml2)
-
-
 
 
 
